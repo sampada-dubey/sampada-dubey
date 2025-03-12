@@ -24,7 +24,7 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sampada-dubey&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sampada-dubey&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampada-dubey&layout=compact&theme=radical)
 
 ---
