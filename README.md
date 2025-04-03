@@ -8,7 +8,7 @@
 - 💡 **Passionate about Java Full Stack & MERN Stack**
 - 🌱 **Currently Learning:** DSA, System Design
 - 🎯 **Goal:** Crack a **20+ LPA Placement**
-- 🔭 **Projects:** MelodySphere 🎵 | CodeCollab 💻 | Expense Tracker 💰
+- 🔭 **Projects:** SER using ML | Sports Gear Recommendation System
 - ⚡ **Fun Fact:** I love **music & playing guitar!** 🎸
 
 ---
