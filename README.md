@@ -8,7 +8,7 @@
 - 💡 **Passionate about Java Full Stack & MERN Stack**
 - 🌱 **Currently Learning:** DSA, System Design
 - 🎯 **Goal:** Crack a **20+ LPA Placement**
-- 🔭 **Projects:** SER using ML | Sports Gear Recommendation System
+- 🔭 **Projects:** SER using ML | Sports Gear Recommendation System | Energy Consumption Predictor 
 - ⚡ **Fun Fact:** I love **music & playing guitar!** 🎸
 
 ---
