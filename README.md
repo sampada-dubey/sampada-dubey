@@ -8,7 +8,7 @@
 - 💡 **Passionate about Java Full Stack & AI/ML**
 - 🌱 **Currently Learning:** DSA, System Design
 - 🎯 **Goal:** Crack a **20+ LPA Placement**
-- 🔭 **Projects:** SER using ML | Sports Gear Recommendation System | Energy Consumption Predictor 
+- 🔭 **Projects:** SER using ML | Sports Gear Recommender | Energy Consumption Predictor | MindMate | DSA with Java
 - ⚡ **Fun Fact:** I love **music & playing guitar!** 🎸
 
 ---
