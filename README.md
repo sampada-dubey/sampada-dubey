@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sampada-dubey&color=blue)
 
 ## 🔥 About Me
-- 🎓 **Computer Science Student | 3rd Year**
+- 🎓 **Computer Science Student | 4th Year**
 - 💡 **Passionate about Java Full Stack & AI/ML**
 - 🌱 **Currently Learning:** DSA, System Design
 - 🎯 **Goal:** Crack a **20+ LPA Placement**
